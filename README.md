@@ -1,4 +1,4 @@
-Yo, I’m ZeroVassil and as you have probbably guessed, I'm a developer xd
+Yo, I’m ZeroVassil (call me Vassil) and as you have probbably guessed, I'm a developer xd
 
 main language:
 > python (3)
