@@ -1,4 +1,4 @@
-Yo, I’m ZeroVassil (call me Zero) and as you have probbably guessed, I'm a developer xd
+Hey, I'm Zero and as you have probbably guessed I'm a developer.
 
 Contact me at:
 https://matrix.to/#/@zerohex:matrix.org
@@ -10,5 +10,3 @@ other languages:
 > c# 
 > 
 > a bit of js and vbs
-
-
